@@ -1,0 +1,5 @@
+# Ignora arquivos executáveis
+*.exe
+
+# Ignora arquivos de saída
+*.out
